@@ -1,3 +1,4 @@
 import pandas as pd
 
-1 + 1
+# bullet-proof code this time
+2 + 2
